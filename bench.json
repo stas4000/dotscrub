@@ -1,0 +1,13 @@
+{
+ "tp": 100,
+ "fp": 0,
+ "fn": 0,
+ "tn": 100,
+ "dots": 434745,
+ "dots_removed": 431230,
+ "wrong_pixels": 5776,
+ "seconds": 36.3,
+ "pages": 200,
+ "seconds_per_page": 0.18,
+ "dot_recall": 0.9919
+}
